@@ -1,10 +1,11 @@
 # floodscript
-UDP-STD Aracılığıyla Flood Yapmanızı Sağlıyor.
+
+Это позволяет вам флудить через UDP-STD.
 
 
-Kurulum : pip install socket, pip install random, pip install time, pip install sys
+Установка: pip install socket, pip install random, pip install time, pip install sys
 
-Kullanım : python mizah.py ip port lenght(T.E = 30)
+Использование: python humor.py длина порта ip (рекомендуется = 30)
 
 ENG : 
 
@@ -16,14 +17,14 @@ Installation : pip install socket, pip install random, pip install time, pip ins
 Usage : python mizah.py ip port lenght(Recommended= 30)
 
 
-RU : 
+TR : 
 
-Это позволяет вам флудить через UDP-STD.
+UDP-STD Aracılığıyla Flood Yapmanızı Sağlıyor.
 
 
-Установка: pip install socket, pip install random, pip install time, pip install sys
+Kurulum : pip install socket, pip install random, pip install time, pip install sys
 
-Использование: python humor.py длина порта ip (рекомендуется = 30)
+Kullanım : python mizah.py ip port lenght(T.E = 30)
 
 AZ : 
 
