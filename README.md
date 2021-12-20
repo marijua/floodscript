@@ -5,7 +5,7 @@
 
 Установка: pip install socket, pip install random, pip install time, pip install sys
 
-Использование: python humor.py длина порта ip (рекомендуется = 30)
+Использование: python mizah.py длина порта ip (рекомендуется = 30)
 
 ENG : 
 
@@ -33,7 +33,7 @@ Sizə UDP-STD vasitəsilə su basmağa imkan verir.
 
 Quraşdırma: pip quraşdırma yuvası, pip quraşdırma təsadüfi, pip quraşdırma vaxtı, pip quraşdırma sistemi
 
-İstifadə: python humor.py ip port uzunluğu (T.O = 30)
+İstifadə: python mizah.py ip port uzunluğu (T.O = 30)
 
 
 Finish : 
